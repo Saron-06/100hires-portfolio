@@ -1,32 +1,39 @@
-<div align="center">
+## Hi there 👋 I am Jack
 
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Saron%20P.jpeg" alt="Jack — Digital Content Specialist" width="200" style="border-radius: 50%; border: 3px solid #8B7355;" />
+I am a **Digital Content Specialist** and **AI Video Creator** who builds content that actually works.
 
-# Jack
+Started with English Literature, moved into social media, grew into full marketing strategy. Along the way I picked up AI video tools, learned to build websites, and figured out how to make content perform across multiple industries and markets.
 
-### Digital Content Specialist
-
-</div>
-
----
-
-## Intro
-
-- Creates AI videos using Google Flow, Veo 3, Seedance, Higgsfield, ElevenLabs
-- Writes and edits with Claude and ChatGPT with human judgment on top
-- Worked with clients across U.S., UK, and UAE
-- Delivered 200+ qualified campaigns and reports
-- Portfolio: [saronportfolio.netlify.app](https://saronportfolio.netlify.app)
-- Email: [saronpraboo@gmail.com](mailto:saronpraboo@gmail.com)
-- Phone: [+91 63855 62231](tel:+916385562231)
+- 🎬 I create AI videos using **Google Flow, Veo 3, Seedance, Higgsfield, and ElevenLabs**
+- ✍️ I write and edit with **Claude and ChatGPT** — always with my own judgment on top
+- 🌍 I have worked with clients across **U.S., UK, and UAE**
+- 📊 I have delivered **700+ qualified campaigns and reports**
+- 🔍 I am currently exploring **growth marketing and AI-powered content workflows**
+- 📧 How to reach me: **saronpraboo@gmail.com**
+- ⚡ Fun fact: I opened a new AI tool on Monday and had content out by Wednesday
 
 ---
 
-## Skills
-Content Strategy ████████████████████░ 95% Copywriting and Editing ██████████████████░░ 90% AI Video Production █████████████████░░░░ 85% Social Media Management ██████████████████░░ 90% Brand Storytelling ████████████████████░ 95% SEO and Email Marketing ███████████████░░░░░░ 75% WordPress and Shopify ██████████████░░░░░░░ 70% Brand Consulting ██████████████████░░ 92%
+## 🛠 Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Content%20Strategy-8B6F47?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Copywriting%20%26%20Editing-A0825A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Video%20Production-6B4F2F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Social%20Media%20Mgmt-7A5C3A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Brand%20Storytelling-c9b89a?style=for-the-badge&logoColor=1a1a1a" />
+<img src="https://img.shields.io/badge/SEO%20%26%20Email%20Marketing-9C7E5A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress%20%26%20Shopify-6E5C4A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Brand%20Consulting-8F7A66?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Campaign%20Management-5C4A3A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance%20Reporting-A08060?style=for-the-badge&logoColor=white" />
+
+</p>
+
 ---
 
-## AI Tools
+## 🤖 AI Tools
 
 <p align="center">
 
@@ -45,57 +52,71 @@ Content Strategy ████████████████████░
 
 ---
 
-## Recent Work
+## 🎨 Recent Work
 
 | | |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/1.png" alt="Recent work poster 1" width="100%" /> | <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/2.png" alt="Recent work poster 2" width="100%" /> |
+| <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/1.png" width="100%" /> | <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/2.png" width="100%" /> |
+| *Dubai Laban — Bengaluru Launch* | *Dubai Laban — Age-Old Favourite* |
 
 ---
 
-## AI Videos
+## 🎬 AI Videos
 
 <table>
   <tr>
     <td width="50%" align="center">
       <a href="https://youtu.be/UUrUDXKnDBw">
-        <img src="https://img.youtube.com/vi/UUrUDXKnDBw/hqdefault.jpg" alt="AI Video 1" width="100%" />
+        <img src="https://img.youtube.com/vi/UUrUDXKnDBw/hqdefault.jpg" width="100%" />
       </a>
+      <br/><em>AI Brand Video — Google Flow / Veo 3</em>
     </td>
     <td width="50%" align="center">
       <a href="https://youtube.com/shorts/SQa60MwKjkE">
-        <img src="https://img.youtube.com/vi/SQa60MwKjkE/hqdefault.jpg" alt="AI Video 2" width="100%" />
+        <img src="https://img.youtube.com/vi/SQa60MwKjkE/hqdefault.jpg" width="100%" />
       </a>
+      <br/><em>Short Form — Seedance / Higgsfield</em>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://youtube.com/shorts/DJKh0CLf22I">
-        <img src="https://img.youtube.com/vi/DJKh0CLf22I/hqdefault.jpg" alt="AI Video 3" width="100%" />
+        <img src="https://img.youtube.com/vi/DJKh0CLf22I/hqdefault.jpg" width="100%" />
       </a>
+      <br/><em>Short Form — Seedance / Higgsfield</em>
     </td>
     <td width="50%" align="center">
       <a href="https://youtube.com/shorts/ZGpuwOJteIw">
-        <img src="https://img.youtube.com/vi/ZGpuwOJteIw/hqdefault.jpg" alt="AI Video 4" width="100%" />
+        <img src="https://img.youtube.com/vi/ZGpuwOJteIw/hqdefault.jpg" width="100%" />
       </a>
+      <br/><em>Short Form — ElevenLabs / Veo 3</em>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://youtu.be/VaG95ghYJak">
-        <img src="https://img.youtube.com/vi/VaG95ghYJak/hqdefault.jpg" alt="AI Video 5" width="49%" />
+        <img src="https://img.youtube.com/vi/VaG95ghYJak/hqdefault.jpg" width="49%" />
       </a>
+      <br/><em>AI Brand Video — Google Flow</em>
     </td>
   </tr>
 </table>
 
 ---
 
-## Brands
+## 🤝 Brands I Have Worked With
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Brands%20.png" width="100%" />
+</p>
+
+---
+
+## 📁 Featured Repository
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Brands%20.png" alt="Brands worked with" width="100%" />
+[![100hires-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Saron-06&repo=100hires-portfolio&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a)](https://github.com/Saron-06/100hires-portfolio)
 
 </p>
 
@@ -103,7 +124,7 @@ Content Strategy ████████████████████░
 
 <div align="center">
 
-**Portfolio:** [saronportfolio.netlify.app](https://saronportfolio.netlify.app) · **Email:** [saronpraboo@gmail.com](mailto:saronpraboo@gmail.com) · **Phone:** [+91 63855 62231](tel:+916385562231)
+🌐 [saronportfolio.netlify.app](https://saronportfolio.netlify.app) &nbsp;·&nbsp; 📧 [saronpraboo@gmail.com](mailto:saronpraboo@gmail.com) &nbsp;·&nbsp; 📞 [+91 63855 62231](tel:+916385562231)
 
 *Words started this. Results keep it going.*
 
