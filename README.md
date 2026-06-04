@@ -119,7 +119,7 @@ who opens a new tool on a Monday and understands it by Wednesday.*
 
 ## Brands I Have Worked With
 
-![Brands](./Brands .png)
+![Brands I Have Worked With](./Brands%20.png)
 
 ---
 
