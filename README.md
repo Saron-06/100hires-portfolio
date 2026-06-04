@@ -1,39 +1,80 @@
 <div align="center">
 
-<h1>Jack</h1>
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Saron%20P.jpeg" width="150" />
 
-<p>
-<img src="https://img.shields.io/badge/Content%20Strategy-8B6F47?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Video-6B4F2F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Brand%20Storytelling-A0825A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Remote%20Available-4A4A4A?style=for-the-badge" />
-</p>
-
-<p>
-<a href="mailto:saronpraboo@gmail.com">saronpraboo@gmail.com</a> &nbsp;·&nbsp;
-+91 63855 62231 &nbsp;·&nbsp;
-<a href="https://saronportfolio.netlify.app">🌐 saronportfolio.netlify.app</a>
-</p>
-
-<br/>
-
-<i>I started with English. Reading, writing, pulling apart sentences to<br/>
-understand why some words hit and others just sit there.<br/>
-That led to content. Content led to campaigns. Campaigns led to AI tools.<br/>
-And AI tools opened up something I did not expect: a completely different way of working.</i>
-
-<br/>
-
-<i>I am not the most experienced person in the room.<br/>
-But I am the person who opens a new tool on a Monday and understands it by Wednesday.</i>
+<h2>Hi there 👋 I am Jack</h2>
 
 </div>
 
-<br/>
+---
+
+I am a **Digital Content Specialist** and **AI Video Creator** who builds content that actually works.
+
+Started with English Literature, moved into social media, grew into full marketing strategy. Along the way I picked up AI video tools, learned to build websites, and figured out how to make content perform across healthcare, education, food, IT, real estate, and construction industries.
+
+- 🎬 I create AI videos using **Google Flow, Veo 3, Seedance, Higgsfield, and ElevenLabs**
+- ✍️ I write and edit with **Claude and ChatGPT** — always with my own judgment on top
+- 🌍 I have worked with clients across **U.S., UK, and UAE**
+- 📊 I have delivered **200+ qualified campaigns and reports**
+- 🌐 My portfolio: **[saronportfolio.netlify.app](https://saronportfolio.netlify.app)**
+- 📧 How to reach me: **saronpraboo@gmail.com**
+- ⚡ Fun fact: I opened a new AI tool on Monday and had content out by Wednesday
 
 ---
 
-## 🎨 Posters & Visuals
+## 🛠 Skills
+
+```text
+Content Strategy        ████████████████████  95%
+Copywriting & Editing   ███████████████████░  90%
+AI Video Production     ██████████████████░░  85%
+Social Media Mgmt       ███████████████████░  90%
+Brand Storytelling      ████████████████████  95%
+SEO & Email Marketing   ████████████████░░░░  75%
+WordPress & Shopify     ███████████████░░░░░  70%
+Brand Consulting        ███████████████████░  92%
+```
+
+---
+
+## 🤖 AI Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-8B6F47?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-6B9B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Flow-4A7FA5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Veo%203-7A5FA5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Seedance-A05A5A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Higgsfield-5A7A5A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-8A6A4A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva%20AI-4A8A9A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-3A6A9A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-5A8A5A?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saron-06&show_icons=true&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a&count_private=true" width="420" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saron-06&layout=compact&theme=dark&title_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a" width="300" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saron-06&theme=dark&background=0e0e0e&ring=c9b89a&fire=c9b89a&currStreakLabel=c9b89a&border=c9b89a&sideLabels=c9b89a" width="500" />
+
+</div>
+
+---
+
+## 🎨 Recent Work
 
 <div align="center">
 
@@ -43,41 +84,22 @@ But I am the person who opens a new tool on a Monday and understands it by Wedne
 
 **Dubai Laban — Bengaluru Launch**
 
-<img src="./1.png" width="340" />
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/1.png" width="300" />
 
-*Launch awareness poster for Dubai Laban's India entry.*<br/>
-*AI-assisted visual storytelling with brand-consistent copy.*
+*Campaign Poster — Food Brand*
 
 </td>
 <td align="center" width="50%">
 
 **Dubai Laban — Age-Old Favourite**
 
-<img src="./2.png" width="340" />
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/2.png" width="300" />
 
-*Teaser campaign visual using AI-generated character design.*<br/>
-*Brand nostalgia meets a playful, modern aesthetic.*
+*Teaser Campaign — AI Character Design*
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🌐 Landing Page
-
-<div align="center">
-
-**CJ Associates — Precision Built. Excellence Delivered.**
-
-*Full landing page for a premium construction firm.*<br/>
-*Editorial copy, bespoke layout, and conversion-focused structure.*
-
-<br/>
-
-🔗 [View Live Site](https://cj-associates-v1.web.app)
 
 </div>
 
@@ -128,45 +150,17 @@ But I am the person who opens a new tool on a Monday and understands it by Wedne
 *AI Brand Video — Google Flow*
 
 </td>
-<td></td>
+<td align="center" width="50%">
+
+**CJ Associates**
+
+*Precision Built. Excellence Delivered.*<br/>
+Premium construction landing page.<br/><br/>
+🔗 [View Live Site](https://cj-associates-v1.web.app)
+
+</td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🛠 AI Tools I Work With Daily
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude-8B6F47?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-6B9B6B?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Flow-4A7FA5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Veo%203-7A5FA5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Seedance-A05A5A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Higgsfield-5A7A5A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ElevenLabs-8A6A4A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva%20AI-4A8A9A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-3A6A9A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-5A8A5A?style=flat-square&logoColor=white" />
-
-</div>
-
----
-
-## 🏭 Industries I Have Worked In
-
-<div align="center">
-
-| Industry | What I Did |
-|:---:|:---|
-| Healthcare | Patient education content, brand awareness, compliance-friendly copy |
-| Education | Course promotion, institutional branding, student-focused campaigns |
-| Food & Beverage | Product launches, seasonal campaigns, engagement-driven social content |
-| IT & Technology | B2B content, product explainers, LinkedIn and email campaigns |
-| Real Estate | Property marketing, digital campaigns, brand positioning |
-| Construction | Premium editorial copy, landing pages, conversion-focused structure |
 
 </div>
 
@@ -176,48 +170,26 @@ But I am the person who opens a new tool on a Monday and understands it by Wedne
 
 <div align="center">
 
-<img src="./Brands%20.png" width="860" />
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Brands%20.png" width="860" />
 
 </div>
 
 ---
 
-## 👤 About Me
+## 📁 Featured Repository
 
 <div align="center">
 
-Nobody starts out knowing where they are headed. I did not either.
-
-Started as a Social Media Manager at Captsee. Multiple clients,<br/>
-industries I knew nothing about walking in. Healthcare one day,<br/>
-food brands the next, IT companies the week after.<br/>
-No playbook. You figured it out or fell behind. I figured it out.
-
-Today I lead marketing at Alqaris, working across U.S., UK, and UAE markets.<br/>
-Over two hundred qualified campaigns and reports delivered.<br/>
-The title changed. The obsession did not.
-
-<br/>
-
-**MA English — SRMIST &nbsp;·&nbsp; BA English — Lady Doak College**
-
-**Markets: U.S. · UK · UAE**
+[![100hires-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Saron-06&repo=100hires-portfolio&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a)](https://github.com/Saron-06/100hires-portfolio)
 
 </div>
 
 ---
 
-## 📁 This Repository
-
 <div align="center">
-
-| File | What It Is |
-|:---:|:---|
-| [`README.md`](./README.md) | This file — full portfolio |
-| [`content-sample.md`](./content-sample.md) | AI content piece with editing notes |
-
-<br/>
 
 *Words started this. Results keep it going.*
+
+🌐 [saronportfolio.netlify.app](https://saronportfolio.netlify.app) &nbsp;·&nbsp; 📧 saronpraboo@gmail.com &nbsp;·&nbsp; 📞 +91 63855 62231
 
 </div>
