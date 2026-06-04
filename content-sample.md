@@ -102,7 +102,7 @@ in an afternoon.
 
 But the shift is not just about speed. It is about confidence. 
 Many small brand owners know their product deeply but struggle to 
-articulate it. AI gives them a starting point — a first draft they 
+articulate it. AI gives them a starting point, a first draft they 
 can react to, edit, and shape into something that actually sounds 
 like them.
 
@@ -111,6 +111,6 @@ thinking. They are the ones using it to think faster. They prompt,
 evaluate, rewrite, and publish. The AI handles the blank page problem. 
 The human handles the judgment.
 
-That combination — AI speed plus human voice — is what small brands 
+That combination, AI speed plus human voice is what small brands 
 now have access to for the first time. And the gap between a scrappy 
 independent brand and a well-resourced competitor just got a lot smaller.
