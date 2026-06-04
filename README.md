@@ -112,8 +112,6 @@ Started with English Literature, moved into social media, grew into full marketi
 
 ---
 
-## 📁 Featured Repository
-
 <p align="center">
 
 [![100hires-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Saron-06&repo=100hires-portfolio&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a)](https://github.com/Saron-06/100hires-portfolio)
