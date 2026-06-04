@@ -27,7 +27,7 @@ who opens a new tool on a Monday and understands it by Wednesday.*
 
 **Dubai Laban — Bengaluru Launch**
 
-![Dubai Laban Bengaluru Launch](./poster1.png)
+![Dubai Laban Bengaluru Launch](./1.png)
 
 > Launch awareness poster for Dubai Laban's India entry. AI-assisted
 > visual storytelling with brand-consistent copy and city-specific messaging.
@@ -36,7 +36,7 @@ who opens a new tool on a Monday and understands it by Wednesday.*
 
 **Dubai Laban — Age-Old Favourite**
 
-![Dubai Laban Age Old Favourite](./poster2.png)
+![Dubai Laban Age Old Favourite](./2.png)
 
 > Teaser campaign visual using AI-generated character design. Blends
 > brand nostalgia with a playful, modern aesthetic.
@@ -119,7 +119,7 @@ who opens a new tool on a Monday and understands it by Wednesday.*
 
 ## Brands I Have Worked With
 
-![Brands](./brands.png)
+![Brands](./Brands .png)
 
 ---
 
