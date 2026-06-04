@@ -1,81 +1,160 @@
-# 100Hires Portfolio Project
+<div align="center">
 
-## How This Started
+# Jack
+### Digital Content Specialist &nbsp;·&nbsp; AI Video &nbsp;·&nbsp; Content Strategy
 
-I got the email, read it twice, and thought, okay, this is different.
-No interview. No formal process. Just: install some tools, create a 
-repository, document what happened, and send the link.
+**saronpraboo@gmail.com &nbsp;·&nbsp; +91 63855 62231 &nbsp;·&nbsp; Remote, Available**
 
-I had never used GitHub properly before. I had never opened Cursor. 
-But the brief said figuring it out on your own is part of what they 
-are looking for. So that is exactly what I did.
 
 ---
 
-## Tools I Installed
+*I started with English. Reading, writing, pulling apart sentences to
+understand why some words hit and others just sit there. That led to
+content. Content led to campaigns. Campaigns led to AI tools. And AI
+tools opened up something I did not expect: a completely different way
+of working.*
 
-### Cursor IDE
-Downloaded from cursor.com. Installed it, opened it, and spent a 
-few minutes just clicking around to understand what I was looking at. 
-It felt like VS Code but with AI built into everything.
+*I am not the most experienced person in the room. But I am the person
+who opens a new tool on a Monday and understands it by Wednesday.*
 
-### Claude — via Cursor
-Looked for a Claude Code extension in the sidebar. Could not find 
-a traditional extensions panel. Started searching, found the Models 
-settings inside Cursor, and discovered that Claude was already there. 
-Sonnet 4.6 and Opus 4.8, both enabled and ready. No separate install needed.
-
-### Codex — via Cursor
-Same story. Found Codex 5.3 sitting right there in the Models panel, 
-already toggled on. Cursor had integrated it natively.
+</div>
 
 ---
 
-## What I Actually Did
+## Work
 
-- Installed Cursor and explored the interface on my own
-- Searched for the extensions panel, hit a wall, changed approach
-- Found Claude and Codex already built into Cursor's model settings
-- Created a GitHub account from scratch
-- Set up this public repository
-- Wrote this README documenting everything honestly
-- Committed and pushed
+### Posters & Visuals
 
----
+**Dubai Laban — Bengaluru Launch**
 
-## Where I Got Stuck and What I Did About It
+![Dubai Laban Bengaluru Launch](./poster1.png)
 
-The extensions panel did not exist the way I expected it to.
-I searched, found nothing, then went to YouTube and read a few 
-forums. That is when I understood Cursor works differently from 
-a standard code editor. The AI models are native, not plugins.
-
-Once I understood that, everything clicked.
-
-GitHub was new territory too. I had heard of it but never 
-actually used it. Watched a short tutorial, followed the steps, 
-and had the repository up within twenty minutes.
+> Launch awareness poster for Dubai Laban's India entry. AI-assisted
+> visual storytelling with brand-consistent copy and city-specific messaging.
 
 ---
 
-## What This Process Actually Tested
+**Dubai Laban — Age-Old Favourite**
 
-Not whether I already knew how to do this.
-Whether I would stop when I did not.
+![Dubai Laban Age Old Favourite](./poster2.png)
 
-I did not stop.
+> Teaser campaign visual using AI-generated character design. Blends
+> brand nostalgia with a playful, modern aesthetic.
 
 ---
 
-## A Bit About Me
+### Landing Page
 
-I am a Marketing Manager and Digital Content Specialist. 
-I have built campaigns across healthcare, education, food, IT, 
-and construction industries for clients in the U.S., UK, and UAE. 
-I use AI tools daily — Claude, ChatGPT, Google Flow, Veo 3, 
-Seedance, Higgsfield, and ElevenLabs.
+**CJ Associates — Precision Built. Excellence Delivered.**
 
-My background is in English Literature. That means I write carefully, 
-edit ruthlessly, and always know when something is not quite right yet.
+> Full landing page for a premium construction firm. Editorial copy,
+> bespoke layout, and conversion-focused structure built for a
+> high-value audience.
 
-Portfolio: https://saronportfolio.netlify.app
+🔗 [View Live Site](https://cj-associates-v1.web.app)
+
+---
+
+### AI Videos
+
+**AI Brand Video — Google Flow / Veo 3**
+
+[![AI Brand Video](https://img.youtube.com/vi/UUrUDXKnDBw/hqdefault.jpg)](https://youtu.be/UUrUDXKnDBw)
+
+---
+
+**Short Form Content — Seedance / Higgsfield**
+
+[![Short Form 1](https://img.youtube.com/vi/SQa60MwKjkE/hqdefault.jpg)](https://youtube.com/shorts/SQa60MwKjkE)
+
+---
+
+**Short Form Content — Seedance / Higgsfield**
+
+[![Short Form 2](https://img.youtube.com/vi/DJKh0CLf22I/hqdefault.jpg)](https://youtube.com/shorts/DJKh0CLf22I)
+
+---
+
+**Short Form Content — ElevenLabs / Veo 3**
+
+[![Short Form 3](https://img.youtube.com/vi/ZGpuwOJteIw/hqdefault.jpg)](https://youtube.com/shorts/ZGpuwOJteIw)
+
+---
+
+**AI Brand Video — Google Flow**
+
+[![AI Brand Video 2](https://img.youtube.com/vi/VaG95ghYJak/hqdefault.jpg)](https://youtu.be/VaG95ghYJak)
+
+---
+
+## AI Tools I Work With Daily
+
+| Tool | Use |
+|---|---|
+| Claude | Content drafts, brand voice, editing judgment |
+| ChatGPT | Ideation, volume, direction exploration |
+| Google Flow | AI video generation |
+| Veo 3 | AI video generation |
+| Seedance | Motion and short form content |
+| Higgsfield | Visual storytelling and motion |
+| ElevenLabs | AI voiceovers |
+| Canva AI | Visuals, posters, social assets |
+| WordPress | Website content management |
+| Shopify | E-commerce content management |
+
+---
+
+## Industries I Have Worked In
+
+| Industry | What I Did |
+|---|---|
+| Healthcare | Patient education content, brand awareness, compliance-friendly copy |
+| Education | Course promotion, institutional branding, student-focused campaigns |
+| Food & Beverage | Product launches, seasonal campaigns, engagement-driven social content |
+| IT & Technology | B2B content, product explainers, LinkedIn and email campaigns |
+| Real Estate | Property marketing, digital campaigns, brand positioning |
+| Construction | Premium editorial copy, landing pages, conversion-focused structure |
+
+---
+
+## Brands I Have Worked With
+
+![Brands](./brands.png)
+
+---
+
+## About Me
+
+Nobody starts out knowing where they are headed. I did not either.
+
+Started as a Social Media Manager at Captsee. Multiple clients,
+industries I knew nothing about walking in. Healthcare one day,
+food brands the next, IT companies the week after. No playbook.
+You figured it out or fell behind. I figured it out.
+
+Today I lead marketing at Alqaris, working across U.S., UK, and
+UAE markets. Over two hundred qualified campaigns and reports delivered.
+The title changed. The obsession did not.
+
+**Education**
+- MA English — SRMIST
+- BA English — Lady Doak College
+
+**Markets:** U.S. · UK · UAE
+
+---
+
+## This Repository
+
+This repo was built as part of the 100Hires portfolio process.
+
+- [`README.md`](./README.md) — this file, my portfolio
+- [`content-sample.md`](./content-sample.md) — AI content piece with editing notes
+
+---
+
+<div align="center">
+
+*Words started this. Results keep it going.*
+
+</div>
