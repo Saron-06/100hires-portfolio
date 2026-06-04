@@ -1,195 +1,85 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Saron%20P.jpeg" width="150" />
-
-<h2>Hi there 👋 I am Jack</h2>
-
-</div>
 
 ---
 
-I am a **Digital Content Specialist** and **AI Video Creator** who builds content that actually works.
+## AI Tools
 
-Started with English Literature, moved into social media, grew into full marketing strategy. Along the way I picked up AI video tools, learned to build websites, and figured out how to make content perform across healthcare, education, food, IT, real estate, and construction industries.
+<p align="center">
 
-- 🎬 I create AI videos using **Google Flow, Veo 3, Seedance, Higgsfield, and ElevenLabs**
-- ✍️ I write and edit with **Claude and ChatGPT** — always with my own judgment on top
-- 🌍 I have worked with clients across **U.S., UK, and UAE**
-- 📊 I have delivered **200+ qualified campaigns and reports**
-- 🌐 My portfolio: **[saronportfolio.netlify.app](https://saronportfolio.netlify.app)**
-- 📧 How to reach me: **saronpraboo@gmail.com**
-- ⚡ Fun fact: I opened a new AI tool on Monday and had content out by Wednesday
+![Claude](https://img.shields.io/badge/Claude-8B6914?style=for-the-badge&logo=anthropic&logoColor=F5F0E8)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-6B5B4F?style=for-the-badge&logo=openai&logoColor=F5F0E8)
+![Google Flow](https://img.shields.io/badge/Google_Flow-9C7E5A?style=for-the-badge&logo=google&logoColor=F5F0E8)
+![Veo 3](https://img.shields.io/badge/Veo_3-7D6E5C?style=for-the-badge&logo=youtube&logoColor=F5F0E8)
+![Seedance](https://img.shields.io/badge/Seedance-A0826D?style=for-the-badge&logoColor=F5F0E8)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-8B7355?style=for-the-badge&logoColor=F5F0E8)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-5C4A3A?style=for-the-badge&logo=elevenlabs&logoColor=F5F0E8)
+![Canva AI](https://img.shields.io/badge/Canva_AI-C4A77D?style=for-the-badge&logo=canva&logoColor=3D3228)
+![WordPress](https://img.shields.io/badge/WordPress-6E5C4A?style=for-the-badge&logo=wordpress&logoColor=F5F0E8)
+![Shopify](https://img.shields.io/badge/Shopify-8F7A66?style=for-the-badge&logo=shopify&logoColor=F5F0E8)
 
----
-
-## 🛠 Skills
-
-```text
-Content Strategy        ████████████████████  95%
-Copywriting & Editing   ███████████████████░  90%
-AI Video Production     ██████████████████░░  85%
-Social Media Mgmt       ███████████████████░  90%
-Brand Storytelling      ████████████████████  95%
-SEO & Email Marketing   ████████████████░░░░  75%
-WordPress & Shopify     ███████████████░░░░░  70%
-Brand Consulting        ███████████████████░  92%
-```
+</p>
 
 ---
 
-## 🤖 AI Tools
+## Recent Work
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude-8B6F47?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-6B9B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Flow-4A7FA5?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Veo%203-7A5FA5?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Seedance-A05A5A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Higgsfield-5A7A5A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ElevenLabs-8A6A4A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva%20AI-4A8A9A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-3A6A9A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-5A8A5A?style=for-the-badge&logoColor=white" />
-
-</div>
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/1.png" alt="Recent work poster 1" width="100%" /> | <img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/2.png" alt="Recent work poster 2" width="100%" /> |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saron-06&show_icons=true&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a&count_private=true" width="420" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saron-06&layout=compact&theme=dark&title_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a" width="300" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saron-06&theme=dark&background=0e0e0e&ring=c9b89a&fire=c9b89a&currStreakLabel=c9b89a&border=c9b89a&sideLabels=c9b89a" width="500" />
-
-</div>
-
----
-
-## 🎨 Recent Work
-
-<div align="center">
+## AI Videos
 
 <table>
-<tr>
-<td align="center" width="50%">
-
-**Dubai Laban — Bengaluru Launch**
-
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/1.png" width="300" />
-
-*Campaign Poster — Food Brand*
-
-</td>
-<td align="center" width="50%">
-
-**Dubai Laban — Age-Old Favourite**
-
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/2.png" width="300" />
-
-*Teaser Campaign — AI Character Design*
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://youtu.be/UUrUDXKnDBw">
+        <img src="https://img.youtube.com/vi/UUrUDXKnDBw/hqdefault.jpg" alt="AI Video 1" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://youtube.com/shorts/SQa60MwKjkE">
+        <img src="https://img.youtube.com/vi/SQa60MwKjkE/hqdefault.jpg" alt="AI Video 2" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://youtube.com/shorts/DJKh0CLf22I">
+        <img src="https://img.youtube.com/vi/DJKh0CLf22I/hqdefault.jpg" alt="AI Video 3" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://youtube.com/shorts/ZGpuwOJteIw">
+        <img src="https://img.youtube.com/vi/ZGpuwOJteIw/hqdefault.jpg" alt="AI Video 4" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://youtu.be/VaG95ghYJak">
+        <img src="https://img.youtube.com/vi/VaG95ghYJak/hqdefault.jpg" alt="AI Video 5" width="49%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-</div>
-
 ---
 
-## 🎬 AI Videos
+## Brands
 
-<div align="center">
+<p align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Brands%20.png" alt="Brands worked with" width="100%" />
 
-[![AI Brand Video](https://img.youtube.com/vi/UUrUDXKnDBw/hqdefault.jpg)](https://youtu.be/UUrUDXKnDBw)
-
-*AI Brand Video — Google Flow / Veo 3*
-
-</td>
-<td align="center" width="50%">
-
-[![Short Form 1](https://img.youtube.com/vi/SQa60MwKjkE/hqdefault.jpg)](https://youtube.com/shorts/SQa60MwKjkE)
-
-*Short Form — Seedance / Higgsfield*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-[![Short Form 2](https://img.youtube.com/vi/DJKh0CLf22I/hqdefault.jpg)](https://youtube.com/shorts/DJKh0CLf22I)
-
-*Short Form — Seedance / Higgsfield*
-
-</td>
-<td align="center" width="50%">
-
-[![Short Form 3](https://img.youtube.com/vi/ZGpuwOJteIw/hqdefault.jpg)](https://youtube.com/shorts/ZGpuwOJteIw)
-
-*Short Form — ElevenLabs / Veo 3*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-[![AI Brand Video 2](https://img.youtube.com/vi/VaG95ghYJak/hqdefault.jpg)](https://youtu.be/VaG95ghYJak)
-
-*AI Brand Video — Google Flow*
-
-</td>
-<td align="center" width="50%">
-
-**CJ Associates**
-
-*Precision Built. Excellence Delivered.*<br/>
-Premium construction landing page.<br/><br/>
-🔗 [View Live Site](https://cj-associates-v1.web.app)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 Brands I Have Worked With
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Brands%20.png" width="860" />
-
-</div>
-
----
-
-## 📁 Featured Repository
-
-<div align="center">
-
-[![100hires-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Saron-06&repo=100hires-portfolio&theme=dark&title_color=c9b89a&icon_color=c9b89a&text_color=f0ede6&bg_color=0e0e0e&border_color=c9b89a)](https://github.com/Saron-06/100hires-portfolio)
-
-</div>
+</p>
 
 ---
 
 <div align="center">
+
+**Portfolio:** [saronportfolio.netlify.app](https://saronportfolio.netlify.app) · **Email:** [saronpraboo@gmail.com](mailto:saronpraboo@gmail.com) · **Phone:** [+91 63855 62231](tel:+916385562231)
 
 *Words started this. Results keep it going.*
-
-🌐 [saronportfolio.netlify.app](https://saronportfolio.netlify.app) &nbsp;·&nbsp; 📧 saronpraboo@gmail.com &nbsp;·&nbsp; 📞 +91 63855 62231
 
 </div>
