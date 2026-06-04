@@ -1,4 +1,29 @@
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Saron-06/100hires-portfolio/main/Saron%20P.jpeg" alt="Jack — Digital Content Specialist" width="200" style="border-radius: 50%; border: 3px solid #8B7355;" />
+
+# Jack
+
+### Digital Content Specialist
+
+</div>
+
+---
+
+## Intro
+
+- Creates AI videos using Google Flow, Veo 3, Seedance, Higgsfield, ElevenLabs
+- Writes and edits with Claude and ChatGPT with human judgment on top
+- Worked with clients across U.S., UK, and UAE
+- Delivered 200+ qualified campaigns and reports
+- Portfolio: [saronportfolio.netlify.app](https://saronportfolio.netlify.app)
+- Email: [saronpraboo@gmail.com](mailto:saronpraboo@gmail.com)
+- Phone: [+91 63855 62231](tel:+916385562231)
+
+---
+
+## Skills
+Content Strategy ████████████████████░ 95% Copywriting and Editing ██████████████████░░ 90% AI Video Production █████████████████░░░░ 85% Social Media Management ██████████████████░░ 90% Brand Storytelling ████████████████████░ 95% SEO and Email Marketing ███████████████░░░░░░ 75% WordPress and Shopify ██████████████░░░░░░░ 70% Brand Consulting ██████████████████░░ 92%
 ---
 
 ## AI Tools
